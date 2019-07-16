@@ -1,0 +1,108 @@
+body {
+	color: white;
+	font-size: 30px;
+	text-align: center; 
+	height: 70px;
+}
+
+html {
+	background-color: gray; 
+	border: solid red 10px;
+	padding-bottom: 830px;
+}
+
+.service {
+  position: fixed;
+  border: thin solid #333;
+  padding-top: 40px;
+  box-sizing: border-box;
+  background-color: blue;
+  margin: 10px 1010px;
+  color: #FFF;
+  border-radius: 100%;
+  height: 150px; 
+  width: 150px; 
+}
+
+.service:hover {
+	cursor: pointer;
+}
+
+.bio {
+  position: fixed;
+  border: thin solid #333;
+  padding-top: 40px;
+  box-sizing: border-box;
+  background-color: red;
+  margin: 10px 700px;
+  color: #FFF;
+  border-radius: 100%;
+  height: 150px; 
+  width: 150px; 
+}
+
+.bio:hover {
+	cursor: pointer;
+}
+
+.price {
+  position: fixed;
+  border: thin solid #333;
+  padding-top: 35px;
+  box-sizing: border-box;
+  background-color: green;
+  margin: 200px 1010px;
+  color: #FFF;
+  border-radius: 100%;
+  height: 150px; 
+  width: 150px; 
+}
+
+.price:hover {
+	cursor: pointer;
+}
+
+.why {
+  position: fixed;
+  border: thin solid #333;
+  padding-top: 20px;
+  box-sizing: border-box;
+  background-color: orange;
+  margin: 200px 700px;
+  color: #FFF;
+  border-radius: 100%;
+  height: 150px; 
+  width: 150px; 
+}
+
+.why:hover {
+	cursor: pointer;
+}
+
+.contact {
+  position: fixed;
+  border: thin solid #333;
+  padding-top: 45px;
+  box-sizing: border-box;
+  background-color: black;
+  margin: 100px 850px;
+  color: #FFF;
+  border-radius: 100%;
+  height: 150px; 
+  width: 160px; 
+}
+
+.contact:hover {
+	cursor: pointer;
+}
+
+footer {
+	color: gray;
+	width: 100%;
+	background-color: #222;
+	padding: 42px 0px;
+    margin-top: 643px;
+}
+
+
+	

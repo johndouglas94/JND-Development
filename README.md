@@ -10,3 +10,8 @@ JND Developement version 100.0
 - started header, footer, and buttons to have links
 - let's do this!
 
+JND Development version 101.0
+ 
+- created new pages
+- added links on the buttons
+- created content on all pages
